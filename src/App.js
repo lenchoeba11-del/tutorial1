@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import MyButton from './components/clickMeButton';
 import Welcome from './components/welcome';
